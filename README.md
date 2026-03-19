@@ -19,3 +19,7 @@ WhatBotPlus 4.6.5.0  Рассылка whatsapp,проверка номеров  
 
 # Фильтр номеров на наличие whatsapp
 ![Alt text](https://github.com/nop-74/WhatBotPlus-4.6.5.0/blob/main/filtr.png)
+
+# Автоответчик
+
+![Alt text](https://github.com/nop-74/WhatBotPlus-4.6.5.0/blob/main/auto1.png)
