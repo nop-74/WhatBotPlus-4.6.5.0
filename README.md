@@ -24,6 +24,13 @@ WhatBotPlus 4.6.5.0  Рассылка whatsapp,проверка номеров  
 
 ![Alt text](https://github.com/nop-74/WhatBotPlus-4.6.5.0/blob/main/auto1.png)
 
+##  СКАЗАТЬ СПАСИБО И КУПИТЬ МНЕ КОФЕ,ЕСЛИ НЕ ЖМОТ 
+
+                ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+![Alt text](https://github.com/nop-74/WhatBotPlus-4.6.5.0/blob/main/pay%20100.png)
+
+
 
 ##  [скачать установщик](https://clck.ru/3Scser)
  
