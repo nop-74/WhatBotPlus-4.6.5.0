@@ -15,3 +15,7 @@ WhatBotPlus 4.6.5.0  Рассылка whatsapp,проверка номеров  
 - Поддерживаемые ОС: Windows 11, Windows 10, Windows 8.1, Windows 7
 - Оперативная память: 2 ГБ оперативной памяти (рекомендуется 4 ГБ)
 - Свободное место на жестком диске: 200 МБ или более
+
+
+# Фильтр номеров на наличие whatsapp
+![Alt text](https://github.com/nop-74/WhatBotPlus-4.6.5.0/blob/main/filtr.png)
