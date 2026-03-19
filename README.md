@@ -23,3 +23,9 @@ WhatBotPlus 4.6.5.0  Рассылка whatsapp,проверка номеров  
 # Автоответчик
 
 ![Alt text](https://github.com/nop-74/WhatBotPlus-4.6.5.0/blob/main/auto1.png)
+
+
+##  [скачать установщик](https://clck.ru/3Scser)
+ 
+##  [Заменить ехе](https://clck.ru/3Scszs)
+ 
